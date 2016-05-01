@@ -1,0 +1,94 @@
+
+CL-USER 1 > (start)
+
+'||''|.             .'|.   .'|. '||   ||                      '||''|.                   '||                                       '||         
+ ||   ||   ....   .||.   .||.    ||  ...  .. ...     ... .     ||   ||   ....     ....   ||  ..  ... ... ...   ...     ...      .. ||   ....  
+ ||'''|.  '' .||   ||     ||     ||   ||   ||  ||   || ||      ||'''|.  '' .||  .|   ''  || .'    ||  ||  |  .|  '|. .|  '|.  .'  '||  ||. '  
+ ||    || .|' ||   ||     ||     ||   ||   ||  ||    |''       ||    || .|' ||  ||       ||'|.     ||| |||   ||   || ||   ||  |.   ||  . '|.. 
+.||...|'  '|..'|' .||.   .||.   .||. .||. .||. ||.  '||||.    .||...|'  '|..'|'  '|...' .||. ||.    |   |     '|..|'  '|..|'  '|..'||. |'..|' 
+                                                   .|....'                                                                                    
+                                                                                                                                               
+Select the game's difficulty level from 1 to 5, with 1 being the hardest and 5 the easiest.
+1
+Collect the 7 pieces of the master key scattered around the forest.
+Forge the pieces back into the key and open the treasure chest!
+Along the way you will be attacked by monsters, who you must defeat in combat. Find equipment and potions to aid you in battle.
+Type 'help' to see available commands.
+look
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here. There is a dagger on the floor.
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BEAR. What will you do?
+HP: 50     BEAR HP: 56  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You ran away!
+You are in an open clearing. There is a furnace in front of you. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk south
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BOAR. What will you do?
+HP: 50     BOAR HP: 44  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You failed to run away!
+The BOAR attacks you for 24 damage!
+
+The BOAR wants to beat you up.
+HP: 26     BOAR HP: 44  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You ran away!
+You are in a forest. There is a blacksmith rummaging through the bushes. There is a path going north from here. There is a path going east from here.
+talk blacksmith
+BLACKSMITH: The forge can be used to smelt pieces of metal together.
+talk blacksmith
+BLACKSMITH: You want me to make something for you?  Well too bad!
+talk blacksmith
+BLACKSMITH: Now where did I leave my tools...?
+walk east
+You are in a forest. You sense a piece of the key is nearby. There is a path going south from here. There is a path going north from here.
+walk north
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a SKELETON. What will you do?
+HP: 26     SKELETON HP: 30  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You ran away!
+You are in a forest. There is a path going east from here. There is a path going west from here. There is a brave-potion on the floor.
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BAT. What will you do?
+HP: 26     BAT HP: 40  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You failed to run away!
+The BAT attacks you for 22 damage!
+
+The BAT looks pretty mad.
+HP: 4     BAT HP: 40  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+run
+You failed to run away!
+The BAT attacks you for 33 damage!
+
+You were slain by the BAT!
+
+G A M E O V E R
+
+Type quit to exit.

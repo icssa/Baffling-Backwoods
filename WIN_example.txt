@@ -1,0 +1,572 @@
+
+CL-USER 1 > (start)
+
+'||''|.             .'|.   .'|. '||   ||                      '||''|.                   '||                                       '||         
+ ||   ||   ....   .||.   .||.    ||  ...  .. ...     ... .     ||   ||   ....     ....   ||  ..  ... ... ...   ...     ...      .. ||   ....  
+ ||'''|.  '' .||   ||     ||     ||   ||   ||  ||   || ||      ||'''|.  '' .||  .|   ''  || .'    ||  ||  |  .|  '|. .|  '|.  .'  '||  ||. '  
+ ||    || .|' ||   ||     ||     ||   ||   ||  ||    |''       ||    || .|' ||  ||       ||'|.     ||| |||   ||   || ||   ||  |.   ||  . '|.. 
+.||...|'  '|..'|' .||.   .||.   .||. .||. .||. ||.  '||||.    .||...|'  '|..'|'  '|...' .||. ||.    |   |     '|..|'  '|..|'  '|..'||. |'..|' 
+                                                   .|....'                                                                                    
+                                                                                                                                               
+Select the game's difficulty level from 1 to 5, with 1 being the hardest and 5 the easiest.
+5
+Collect the 7 pieces of the master key scattered around the forest.
+Forge the pieces back into the key and open the treasure chest!
+Along the way you will be attacked by monsters, who you must defeat in combat. Find equipment and potions to aid you in battle.
+Type 'help' to see available commands.
+look
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here. There is a dagger on the floor.
+pickup dagger
+You are now carrying the dagger
+walk west
+You are in a forest. The path here is well-trodden. There is a path going south from here. There is a path going west from here. There is a path going north from here. There is a path going east from here.
+walk north
+You are in a secluded grove. Someone forgot their belongings beneath a shady tree. There is a path going south from here. There is a small-potion on the floor. There is a wood-shield on the floor.
+pickup wood-shield
+You are now carrying the wood-shield
+equip wood-shield
+========================
+HP: 50  ATK: 17  DEF: 3
+WPN: NIL
+SHLD: WOOD-SHIELD
+ARMR: NIL
+========================
+You equip the WOOD-SHIELD.
+pickup small-potion
+You are now carrying the small-potion
+walk south
+You are in a forest. The path here is well-trodden. There is a path going south from here. There is a path going west from here. There is a path going north from here. There is a path going east from here.
+walk west
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a RAT. What will you do?
+HP: 50     RAT HP: 37  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 17 damage!
+The RAT attacks you for 5 damage!
+
+The RAT wants to beat you up.
+HP: 45     RAT HP: 20  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 17 damage!
+The RAT attacks you for 5 damage!
+
+The RAT thinks you look tasty.
+HP: 40     RAT HP: 3  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 17 damage!
+You felled the RAT!
+You are in a forest. There are footprints leading north down the road. There is a path going south from here. There is a path going east from here. There is a path going west from here. There is a path going north from here.
+walk south
+You are in a forest. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a strength-potion on the floor.
+pickup strength-potion
+You are now carrying the strength-potion
+walk south
+You can feel the wind through the trees. You consider flipping a coin to choose which direction to take. There is a path going east from here. There is a path going west from here.
+walk east
+You can feel the wind through the trees. There is a path going south from here. There is a path going east from here. There is a key-piece-3 on the floor.
+pickup key-piece-3
+You are now carrying the key-piece-3
+walk east
+You can feel the wind through the trees. There is a path going west from here. There is a path going east from here. There is a path going south from here. There is a sword on the floor.
+pickup sword
+You are now carrying the sword
+equip sword
+========================
+HP: 40  ATK: 29  DEF: 3
+WPN: SWORD
+SHLD: WOOD-SHIELD
+ARMR: NIL
+========================
+You equip the SWORD.
+walk east
+You can feel the wind through the trees. You try to remember how you got here... But it just makes your head hurt. There is a path going east from here. There is a path going south from here. There is a path going north from here.
+walk south
+You can feel the wind through the trees. There is a path going south from here. There is a fierce-potion on the floor.
+walk south
+You can feel the wind through the trees. It seems no one has been here in a while. There is a path going south from here. There is a path going east from here.
+walk east
+You can feel the wind through the trees. There is a path going south from here. There is a path going east from here. There is a path going west from here. There is a key-piece-1 on the floor.
+pickup key-piece-1
+You are now carrying the key-piece-1
+walk east
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk south
+You are in a forest. There is a path going south from here. There is a path going north from here. There is a path going west from here. There is a tunic on the floor.
+pickup tunic
+You are now carrying the tunic
+equip tunic
+========================
+HP: 50  ATK: 29  DEF: 4
+WPN: SWORD
+SHLD: WOOD-SHIELD
+ARMR: TUNIC
+========================
+You equip the TUNIC.
+walk south
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a RAT. What will you do?
+HP: 50     RAT HP: 37  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 29 damage!
+The RAT attacks you for 4 damage!
+
+The RAT wants to beat you up.
+HP: 46     RAT HP: 8  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 29 damage!
+You felled the RAT!
+You can feel the wind through the trees. You try to remember how you got here... But it just makes your head hurt. There is a path going east from here. There is a path going south from here. There is a path going north from here.
+walk south
+You can feel the wind through the trees. There is a path going south from here. There is a fierce-potion on the floor.
+pickup fierce-potion
+You are now carrying the fierce-potion
+walk south
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a SKELETON. What will you do?
+HP: 46     SKELETON HP: 26  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the SKELETON for 25 damage!
+The SKELETON attacks you for 7 damage!
+
+The SKELETON rattles its bones.
+HP: 39     SKELETON HP: 1  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the SKELETON for 25 damage!
+You felled the SKELETON!
+LEVEL UP: The experience you gained from defeating SKELETON increased your HP by 1!
+You can feel the wind through the trees. It seems no one has been here in a while. There is a path going south from here. There is a path going east from here.
+walk south
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walkeast
+I do not know that command.
+walk east
+You are in an open clearing. There is a furnace in front of you. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk east
+You are in a forest. There is a path going east from here. There is a path going west from here. There is a brave-potion on the floor.
+pickup brave-potion
+You are now carrying the brave-potion
+walk east
+You are in a forest. There is an adventurer looking east. There is a path going east from here. There is a path going north from here. There is a path going south from here.
+talk adventurer
+ADVENTURER: Strange... when I walk east I end up north.
+walk east
+You are in a dense part of the forest. There is a path going east from here.
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BOAR. What will you do?
+HP: 61     BOAR HP: 40  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BOAR for 27 damage!
+The BOAR attacks you for 4 damage!
+
+The BOAR looks pretty mad.
+HP: 57     BOAR HP: 13  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BOAR for 27 damage!
+You felled the BOAR!
+You can feel the wind through the trees. There is a path going west from here. There is a path going south from here. There is a kiteshield on the floor.
+pickup kiteshield
+You are now carrying the kiteshield
+equip kiteshield
+========================
+HP: 57  ATK: 29  DEF: 7
+WPN: SWORD
+SHLD: KITESHIELD
+ARMR: TUNIC
+========================
+You equip the KITESHIELD.
+walk south
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a RAT. What will you do?
+HP: 57     RAT HP: 37  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 29 damage!
+The RAT attacks you for 1 damage!
+
+The RAT eyes you warily.
+HP: 56     RAT HP: 8  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the RAT for 29 damage!
+You felled the RAT!
+You can feel the wind through the trees. There is a path going west from here. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a med-potion on the floor.
+pickup med-potion
+You are now carrying the med-potion
+walk south
+You can feel the wind blowing from the east. There is a path going east from here. There is a path going south from here. There is a path going west from here. There is a path going north from here.
+walk east
+You can feel the wind through the trees. There is a path going south from here. There is a path going east from here. There is a key-piece-5 on the floor.
+pickup key-piece-5
+You are now carrying the key-piece-5
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BEAR. What will you do?
+HP: 56     BEAR HP: 52  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+The BEAR attacks you for 5 damage!
+
+The BEAR looks pretty mad.
+HP: 51     BEAR HP: 24  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+You felled the BEAR!
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk north
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a SKELETON. What will you do?
+HP: 51     SKELETON HP: 26  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+walk north
+You cannot just walk away from a battle.
+attack
+You attack the SKELETON for 25 damage!
+The SKELETON attacks you for 4 damage!
+
+The SKELETON rattles its bones.
+HP: 47     SKELETON HP: 1  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the SKELETON for 25 damage!
+You felled the SKELETON!
+You are at the edge of a clearing. You see a pit to the north with no way down. There is a path going east from here. There is a path going south from here. There is a bridge going north from here.
+walk north
+You can feel the wind through the trees. There is a haggard looking vagrant trudging north. There is a path going east from here. There is a bridge going south from here. There is a path going north from here. There is a path going west from here.
+talk vagrant
+VAGRANT: How did I end up in this forest anyway?
+walk east
+You can feel the wind through the trees. There is a path going east from here. There is a path going west from here.
+walk east
+You can feel the wind through the trees. There are faded footprints headed east. There is a path going east from here. There is a path going west from here.
+walk east
+You can feel the wind through the trees. There is a path going east from here. There is a path going north from here. There is a key-piece-2 on the floor.
+pickup key-piece-2
+You are now carrying the key-piece-2
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BAT. What will you do?
+HP: 47     BAT HP: 38  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BAT for 30 damage!
+The BAT attacks you for 0 damage!
+
+The BAT wants to beat you up.
+HP: 47     BAT HP: 8  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BAT for 30 damage!
+You felled the BAT!
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk west
+You are in a forest. The path here is well-trodden. There is a path going south from here. There is a path going west from here. There is a path going north from here. There is a path going east from here.
+walk west
+You are in a forest. There are footprints leading north down the road. There is a path going south from here. There is a path going east from here. There is a path going west from here. There is a path going north from here.
+walk south
+You are in a forest. There is a path going south from here. There is a path going east from here. There is a path going north from here.
+walk west
+You cannot go that way.
+walk south
+You can feel the wind through the trees. You consider flipping a coin to choose which direction to take. There is a path going east from here. There is a path going west from here.
+walk west
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BEAR. What will you do?
+HP: 47     BEAR HP: 54  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+The BEAR attacks you for 5 damage!
+
+The BEAR wants to beat you up.
+HP: 42     BEAR HP: 26  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+You felled the BEAR!
+You can feel the wind through the trees. There is a cliff looming over you There is a path going east from here. There is a ladder going up from here. There is a path going north from here. There is a chainmail on the floor.
+pickup chainmail
+You are now carrying the chainmail
+equip chainmail
+========================
+HP: 57  ATK: 29  DEF: 9
+WPN: SWORD
+SHLD: KITESHIELD
+ARMR: CHAINMAIL
+========================
+You equip the CHAINMAIL.
+walk up
+You can feel the wind through the trees. There is a knight with diamond-encrusted armor idly sharpening his sword on a rock. There is a path going north from here.
+talk knight
+KNIGHT: It is too bad there is no duel function implemented or I would challenge you right here!
+walk north
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BEAR. What will you do?
+HP: 57     BEAR HP: 54  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+The BEAR attacks you for 3 damage!
+
+The BEAR wants to beat you up.
+HP: 54     BEAR HP: 26  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+You felled the BEAR!
+You can feel the wind through the trees. The knight watches you from far away behind a tree. There is a path going west from here. There is a path going east from here. There is a path going north from here.
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BAT. What will you do?
+HP: 54     BAT HP: 38  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BAT for 30 damage!
+The BAT attacks you for 0 damage!
+
+The BAT thinks you look tasty.
+HP: 54     BAT HP: 8  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BAT for 30 damage!
+You felled the BAT!
+LEVEL UP: The experience you gained from defeating BAT increased your HP by 1!
+You can feel the wind through the trees. There is a path going west from here. There is a path going east from here. There is a key-piece-6 on the floor.
+
+I do not know that command.
+pickup key-piece-6
+You are now carrying the key-piece-6
+walk east
+You are in clearing. There is a hill to your west and north-but you cannot climb it. There is a path going south from here. There is a path going east from here.
+walk east
+You are in a forest. There are footprints leading north down the road. There is a path going south from here. There is a path going west from here. There is a path going north from here.
+walk north
+You see a traveler resting under a tree near a cliff next to the road. There is a path going south from here. There is a path going east from here.
+walk east
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BEAR. What will you do?
+HP: 77     BEAR HP: 54  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+The BEAR attacks you for 3 damage!
+
+The BEAR eyes you warily.
+HP: 74     BEAR HP: 26  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BEAR for 28 damage!
+You felled the BEAR!
+LEVEL UP: The experience you gained from defeating BEAR increased your DEF by 1!
+You are in a forest. You see a pit to the east with no way down. There is a bridge going east from here. There is a path going west from here. There is a path going north from here.
+walk east
+You are in a forest. You see a pit to the west. There is a path going north from here. There is a rope going down from here.
+walk down
+You are in a pit. You can see the sky when you look up. There is a rope going up from here. There is a key-piece-4 on the floor.
+pickup key-piece-4
+You are now carrying the key-piece-4
+walk up
+Something rustles in the bushes.
+Your movement attracted a monster!
+You are attacked by a BOAR. What will you do?
+HP: 77     BOAR HP: 42  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BOAR for 27 damage!
+The BOAR attacks you for 0 damage!
+
+The BOAR eyes you warily.
+HP: 77     BOAR HP: 15  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the BOAR for 27 damage!
+You felled the BOAR!
+LEVEL UP: The experience you gained from defeating BOAR increased your HP by 1!
+You are at the edge of a clearing. You see a pit to the north with no way down. There is a path going east from here. There is a path going south from here. There is a bridge going north from here.
+walk south
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk west
+You are in a forest. The path here is well-trodden. There is a path going south from here. There is a path going west from here. There is a path going north from here. There is a path going east from here.
+walk west
+You are in a forest. There are footprints leading north down the road. There is a path going south from here. There is a path going east from here. There is a path going west from here. There is a path going north from here.
+walk north
+You are in a forest. There are footprints leading north down the road. There is a path going south from here. There is a path going west from here. There is a path going north from here.
+walk north
+You see a traveler resting under a tree near a cliff next to the road. There is a path going south from here. There is a path going east from here.
+walk east
+You are in a forest. You see a pit to the east with no way down. There is a bridge going east from here. There is a path going west from here. There is a path going north from here.
+walk north
+You can feel the wind through the trees. There is a path going south from here. There is a path going east from here.
+walk east
+You can feel the wind through the trees. There is a path going south from here. There is a path going west from here. There is a endurance-potion on the floor.
+pickup endurance-potion
+You are now carrying the endurance-potion
+inventory
+Items- key-piece-6 key-piece-5 key-piece-4 key-piece-3 key-piece-2 key-piece-1 fierce-potion brave-potion strength-potion endurance-potion med-potion small-potion dagger wood-shield tunic sword kiteshield chainmail
+walk south
+The forest is misty here. There is a path going south from here. There is a path going west from here.
+walk east
+You cannot go that way.
+walk west
+You can feel the wind through the trees. The undergrowth closes behind you. It blocks the path back! There is a path going south from here. There is a path going west from here. There is a path going north from here.
+walk north
+You can feel the wind through the trees. There is a path going east from here. There is a path going west from here. There is a big-potion on the floor.
+pickup big-potion
+You are now carrying the big-potion
+walk east
+You can feel the wind through the trees. There is a path going east from here. There is a key-piece-7 on the floor.
+pickup key-piece-7
+You are now carrying the key-piece-7
+inventory
+Items- key-piece-7 key-piece-6 key-piece-5 key-piece-4 key-piece-3 key-piece-2 key-piece-1 fierce-potion brave-potion strength-potion endurance-potion big-potion med-potion small-potion dagger wood-shield tunic sword kiteshield chainmail
+walk west
+You cannot go that way.
+look
+You can feel the wind through the trees. There is a path going east from here.
+walk east
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+walk east
+You are in an open clearing. There is a furnace in front of you. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+smelt key-piece-1 key-piece-2
+
+You have forged the master key!
+walk west
+You are in a small clearing with a crackling campfire and a golden chest sitting atop a stump. There is a path going south from here. There is a path going east from here. There is a path going north from here. There is a path going west from here.
+stats
+========================
+HP: 78  ATK: 29  DEF: 10
+WPN: SWORD
+SHLD: KITESHIELD
+ARMR: CHAINMAIL
+========================
+HINT: When you level up, you will be fully healed.
+unlock master-key chest
+You unlock the chest and see it is full of gold and treasure. A dragon swoops down to protect its treasure!
+You are attacked by a DRAGON. This is the end!
+HP: 78     DRAGON HP: 88  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+item
+What will you use?
+Items- master-key fierce-potion brave-potion strength-potion endurance-potion big-potion med-potion small-potion dagger wood-shield tunic sword kiteshield chainmail
+use endurance-potion
+Your defense temporarily rose by 4!
+use strength-potion
+Your attack temporarily rose by 4!
+use brave-potion
+Your defense temporarily rose by 8!
+use fierce-potion
+Your attack temporarily rose by 8!
+attack
+You attack the DRAGON for 29 damage!
+The DRAGON attacks you for 6 damage!
+
+The DRAGON roars at you.
+HP: 72     DRAGON HP: 59  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the DRAGON for 29 damage!
+The DRAGON attacks you for 6 damage!
+
+The DRAGON roars at you.
+HP: 66     DRAGON HP: 30  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the DRAGON for 29 damage!
+The DRAGON attacks you for 6 damage!
+
+The DRAGON roars at you.
+HP: 60     DRAGON HP: 1  
+------------------------------
+ATTACK - DEFEND - RUN - ITEM
+------------------------------
+attack
+You attack the DRAGON for 29 damage!
+You felled the DRAGON!
+Congratulations, the treasure is yours.  You win!
+=======================GAME STATS=======================
+Walks taken: 63
+Monsters killed: 13
+Times you ran away: 0
