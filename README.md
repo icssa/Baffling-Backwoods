@@ -34,7 +34,7 @@ The userguide is formatted better and has a secret at the end in case you get st
   * Monsters slowly level up the longer the game takes.  If you do not open the chest in time, the monsters may become too strong for you to defeat.
   * Different monsters have different stats.  Rats are unremarkable, while wolves have high attack but low defense.
 * When you defeat a monster, you have a chance to level up in each of your attributes (ATK/DEF/HP) by 1.  Leveling up fully heals your HP.
-  * When you attack a monster it loses HP, and if it survives, it will attack you back.
+* When you attack a monster it loses HP, and if it survives, it will attack you back.
 * When you defend, you take reduced damage for one turn. This becomes more powerful if you have a shield.
 * When you run, you have a chance to escape combat unscathed. If you fail to escape, you take successively more and more damage for each failed attempt.
 * When you use an item, it is consumed from your inventory and you gain a benefit. You can use an unlimited number of items in one turn and still attack after, but be careful, as there are few items to be found in the forest.
